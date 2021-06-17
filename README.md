@@ -1,1 +1,1 @@
-# symmetrical-pancake
+# symmetrical.github.io
